@@ -1,0 +1,93 @@
+body{
+    overflow-x: hidden;
+}
+.con1{
+    background-color: black;
+    margin-bottom: 0%;
+    font-family: 'Uchen', serif;
+    
+}
+.shape{
+    border-radius: 6;
+    height: 25px;
+    width: 25px;
+    background-color: #2bd618;
+    transition-duration: 2s;
+}
+.shape:hover{
+   border-radius: 50%;
+   background-color: #179be3;
+}
+.nbrand{
+    padding-left: 10%;
+    text-decoration: none;
+    font-size: 20px;
+    color: white;
+}
+.nbrand:hover{
+    color:aqua;
+}
+.con5{
+    height: 100%;
+}
+.con2{
+    padding-top: 15%;
+    padding-left: 35%;
+    color:aqua;
+}
+.con3{
+    padding-left: 20%;
+    padding-top: 3%;
+    color: white;
+    font-size: 20px;
+}
+.con4{
+    margin-left: 45%;
+    margin-top: 8%;
+    background-color: transparent;
+    color: white;
+    border-style: solid;
+    border-width: 0.5px;
+    border-radius: 6px;
+    padding: 2%;
+    margin-bottom: 12%;
+    transition: 1s;
+}
+.con4:hover{
+    background-color: #2cbfa7;
+}
+.con6{
+    padding-top: 10%;
+    padding-left: 50%;
+    font-family: 'Uchen', serif;
+    font-size: 15px;
+}
+.card-mb-3{
+    padding-left: 15%;
+}
+.con7{
+    padding-right: 0%;
+    border-radius: 50%;
+    width: 190px;
+    height: 190px;
+}
+.con8{
+    font-size: 20px;
+    font-family: 'Uchen', serif;
+}
+.con9{
+    padding-top: 10%;
+}
+.con10{
+    width: 90px;
+    height: 90px;
+    background-color: #67d6cf;
+    transition: 1s;
+}
+.con10:hover{
+    border-radius: 50%;
+}
+.con11{
+    padding-left: 10%;
+}
+
