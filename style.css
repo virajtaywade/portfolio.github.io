@@ -41,14 +41,14 @@ body{
 .but:hover{
     background-color: #C3083F;
 }
-.grey{
-    background-color: #c2c1c0;
-}
 .about{
     padding-top: 20vh;
     padding-bottom: 10vh;
     font-family: 'Uchen', serif;
     text-decoration: underline;
+}
+.main{
+    margin-bottom: 20vh;
 }
 .image{
     border-radius: 50%;
