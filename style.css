@@ -1,5 +1,9 @@
+*{
+    margin: 0;
+}
 body{
     overflow-x: hidden;
+    margin: 0;
 }
 .con1{
     background-color: #0a0a0a;
@@ -58,4 +62,23 @@ body{
 .col-lg-8{
     font-family: 'Uchen', serif;
     font-size: 20px;
+}
+.card{
+    font-family: 'Uchen', serif;
+}
+.text{
+    color: #C3083F;
+}
+.card-body{
+    background-color: #E3E2DE;
+}
+.card-title{
+    color:#C3083F;
+}
+.card-text{
+    font-size: 20px;
+    color:#C3083F;
+}
+#text-sub{
+    color: #EE4C7D;
 }
