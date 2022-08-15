@@ -1,5 +1,10 @@
 *{
     margin: 0;
+    paddinng:0;
+}
+html{
+    margin: 0;
+    paddinng:0;
 }
 body{
     overflow-x: hidden;
