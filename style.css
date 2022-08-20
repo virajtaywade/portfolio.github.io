@@ -11,8 +11,10 @@ body {
 	padding: 0;
 }
 .con1{
-    background-color: #0a0a0a;
-    padding-bottom: 19vh;
+	background-color: #0a0a0a;
+    	padding-bottom: 19vh;
+	margin: 0;
+
 }
 .nbrand{
     padding-left: 25px;
