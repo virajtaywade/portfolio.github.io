@@ -66,6 +66,12 @@ body {
     width: 190px;
     height: 190px;
 }
+.col-lg-6{
+    transition: 0.5s;
+}
+.col-lg-6:hover{
+    transform: translateY(-5px);
+}
 .col-lg-8{
     font-family: 'Uchen', serif;
     font-size: 20px;
