@@ -10,6 +10,14 @@ body {
 	margin: 0;
 	padding: 0;
 }
+.under{
+    text-decoration: none;
+    font-style: normal;
+    color: #C3083F;
+}
+.under:hover{
+    color:#950741;
+}
 .con1{
 	background-color: #0a0a0a;
     	padding-bottom: 20vh;
